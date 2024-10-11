@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>API Front</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <h1>Laravel API frontend</h1>
